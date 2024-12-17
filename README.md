@@ -1,6 +1,8 @@
 # 3DViewer_CPP
 Application for viewing 3D wireframe models in C++
 
+![app](misc/3DViever_app.gif)
+
 ## General Information about the Program
 
 This program provides the capability to view a 3D model in wireframe mode. The models are stored in files of the .obj format.
